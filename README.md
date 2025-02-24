@@ -112,4 +112,3 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 Nombre  
 Email  
 Perfil GitHub
-```
