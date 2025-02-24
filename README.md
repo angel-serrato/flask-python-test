@@ -113,21 +113,3 @@ Nombre
 Email  
 Perfil GitHub
 ```
-
-### Explicación de las secciones:
-
-1. **Introducción y características**: Una breve descripción del proyecto y sus funcionalidades clave, así como los patrones de diseño aplicados.
-2. **Requisitos**: Dependencias necesarias para ejecutar el proyecto, como Python y Flask.
-3. **Instalación**: Instrucciones paso a paso para instalar y poner en marcha el proyecto.
-4. **Estructura del proyecto**: Muestra cómo está organizado el proyecto y qué archivos se encuentran en cada directorio.
-5. **Rutas principales**: Una lista de las rutas más importantes de la aplicación.
-6. **Dependencias**: Una lista de las librerías necesarias para que la aplicación funcione correctamente.
-7. **Contribuir**: Una invitación para que otros contribuyan al proyecto.
-8. **Licencia**: El tipo de licencia que aplica al proyecto (en este caso, MIT).
-9. **Autor**: Información de contacto y autor del proyecto.
-
-Este archivo `README.md` proporciona una guía completa sobre cómo empezar con el proyecto, cómo está estructurado y cómo contribuir a él.
-
-```
-app = Flask(__name__, static_folder='../front-end/static', template_folder='../front-end/templates')
-```
