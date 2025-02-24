@@ -1,6 +1,3 @@
-¡Claro! Aquí tienes un ejemplo de un archivo `README.md` para el proyecto de **Sistema de Gestión de Tareas con Usuarios y Categorías** en Flask:
-
-```markdown
 # Sistema de Gestión de Tareas con Usuarios y Categorías
 
 Este es un proyecto de **gestión de tareas** desarrollado con **Python** y **Flask**. El sistema permite a los usuarios crear, leer, actualizar y eliminar tareas (CRUD). Las tareas pueden ser categorizadas y asignadas a diferentes usuarios. Los usuarios pueden iniciar sesión, y los administradores pueden asignar tareas a otros usuarios.
@@ -112,9 +109,9 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 
 ### Autor
 
-Tu Nombre  
-Tu Email  
-Tu Perfil GitHub
+Nombre  
+Email  
+Perfil GitHub
 ```
 
 ### Explicación de las secciones:
